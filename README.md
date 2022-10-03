@@ -1,5 +1,6 @@
 # Healthcare-Analytics
 Goal You need to find the outcome where the outcome is defined as a favourable outcome is defined as getting a health_score, while in the third format it is defined as visiting at least a stall.
+
 **Data Description**
 The problem contains two datasets, Train Data, and Test Data. Model building is to be done on Train Dataset and the Model testing is to be done on Test Dataset. The output from the Test Data is to be submitted in the Hackathon platform
 
